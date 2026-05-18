@@ -122,6 +122,12 @@ Tres pistas concretas, ordenadas por relación esfuerzo/recompensa:
    dimensión natural. Es lo más ambicioso (proyecto de semanas), pero
    conceptualmente coherente y con literatura que lo respalda.
 
+4. **Hemos llegado a la conclusión de que este proyecto no es viable siguiendo la física
+   tristemente usando molaría hacerlo con partículas de varios elementos , cada una con su
+   espacio/tiempo y contexto, siendo el contexto un objeto con múltiples variables. No tenemos un
+   pc de la nasa con lo que descartamos el proyecto quedándonos con la versión 0.3 mejorada que es
+   la que más mola
+
 **Método que funcionó (importante): no programar a ciegas.** Ejecutar la
 física real, volcar el estado, RENDERIZAR a imagen y MIRARLA antes de
 dar nada por bueno. Verificar la física con métricas medibles
